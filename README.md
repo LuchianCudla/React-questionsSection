@@ -1,0 +1,1 @@
+In this project I am making a questions toggler,using functional components,locally saved data then pass some props to the other component,and depending on the state you can toggle between different states.
