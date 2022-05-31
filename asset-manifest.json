@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%20%20React-questionsSection/static/css/main.54afcf48.css",
+    "main.js": "/%20%20React-questionsSection/static/js/main.05343a51.js",
+    "index.html": "/%20%20React-questionsSection/index.html",
+    "main.54afcf48.css.map": "/%20%20React-questionsSection/static/css/main.54afcf48.css.map",
+    "main.05343a51.js.map": "/%20%20React-questionsSection/static/js/main.05343a51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54afcf48.css",
+    "static/js/main.05343a51.js"
+  ]
+}
